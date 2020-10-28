@@ -43,19 +43,19 @@
 
 // - переопределить каждую переменную из задания 1 дав им произвольные значения
 // Вывести каждую при помощи console.log , alert, document.write
-// let a1 = 'sadmksnk';
-// let a2 = true;
-// let a3 = 'sdvd';
-// let a4 = 12214;
-// let a5 = 'wsgswd';
-// let a6 = false;
-// let a7 = jdnswl;
-// let a8 = 432;
-// let a9 = 'sdccv';
-// let a10 = true;
-// let a11 = 'lmombgonmdn';
-// let a12 = 432343;
-// let a13 = false;
+// a1 = 'sadmksnk';
+// a2 = true;
+// a3 = 'sdvd';
+// a4 = 12214;
+// a5 = 'wsgswd';
+// a6 = false;
+// a7 = jdnswl;
+// a8 = 432;
+// a9 = 'sdccv';
+// a10 = true;
+// a11 = 'lmombgonmdn';
+// a12 = 432343;
+// a13 = false;
 // document.write(a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13);
 // console.log(a1);
 // console.log(a2);
